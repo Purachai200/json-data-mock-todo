@@ -1,0 +1,58 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Check Stock",
+      "completed": true,
+      "userId": 26
+    },
+    {
+      "id": 2,
+      "todo": "Memorize the fifty states and their capitals",
+      "completed": false,
+      "userId": 48
+    },
+    {
+      "id": 3,
+      "todo": "Watch a classic movie",
+      "completed": false,
+      "userId": 4
+    },
+    {
+      "id": 4,
+      "todo": "Contribute code or a monetary donation to an open-source software project",
+      "completed": false,
+      "userId": 48
+    },
+    {
+      "id": 5,
+      "todo": "Lern HTML5",
+      "completed": false,
+      "userId": 31
+    },
+    {
+      "todo": "Lern CSS 3",
+      "completed": true,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "todo": "Take Control Classroom",
+      "completed": false,
+      "user": 1,
+      "id": 7
+    },
+    {
+      "todo": "Take Shower",
+      "completed": true,
+      "user": 1,
+      "id": 8
+    },
+    {
+      "todo": "อ่านหนังสือ",
+      "completed": false,
+      "user": 1,
+      "id": 9
+    }
+  ]
+}
